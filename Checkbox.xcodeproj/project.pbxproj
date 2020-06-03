@@ -13,6 +13,7 @@
 		98A205A92486C1C600BF8108 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98A205A72486C1C600BF8108 /* Main.storyboard */; };
 		98A205AB2486C1C900BF8108 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98A205AA2486C1C900BF8108 /* Assets.xcassets */; };
 		98A205AE2486C1C900BF8108 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98A205AC2486C1C900BF8108 /* LaunchScreen.storyboard */; };
+		98A205BA2486D99D00BF8108 /* CheckboxViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A205B92486D99D00BF8108 /* CheckboxViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		98A205AA2486C1C900BF8108 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98A205AD2486C1C900BF8108 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		98A205AF2486C1C900BF8108 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98A205B92486D99D00BF8108 /* CheckboxViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckboxViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				98A205AA2486C1C900BF8108 /* Assets.xcassets */,
 				98A205AC2486C1C900BF8108 /* LaunchScreen.storyboard */,
 				98A205AF2486C1C900BF8108 /* Info.plist */,
+				98A205B92486D99D00BF8108 /* CheckboxViewCell.swift */,
 			);
 			path = Checkbox;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				98A205A62486C1C600BF8108 /* ViewController.swift in Sources */,
 				98A205A22486C1C600BF8108 /* AppDelegate.swift in Sources */,
 				98A205A42486C1C600BF8108 /* SceneDelegate.swift in Sources */,
+				98A205BA2486D99D00BF8108 /* CheckboxViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
